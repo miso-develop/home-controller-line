@@ -1,0 +1,26 @@
+[INTENT SLOT]
+oneActionOption	oneActionOption
+target	target
+action	action
+particle	particle
+number	CLOVA.NUMBER
+channel	channel
+state	state
+updown	updown
+oneAction	oneAction
+
+[INTENT EXPRESSION]
+<oneAction>oneAction</oneAction><oneActionOption>oneActionOption</oneActionOption>
+<target>target</target><state>state</state><number>number</number><updown>updown</updown>
+<state>state</state><updown>updown</updown>
+<number>number</number><channel>channel</channel>
+<oneAction>oneAction</oneAction>
+<target>target</target><particle>particle</particle><number>number</number><channel>channel</channel>
+<target>target</target><number>number</number>
+<target>target</target><particle>particle</particle><state>state</state><number>number</number><updown>updown</updown>
+<target>target</target><state>state</state><number>number</number><updown>updown</updown>
+<target>target</target><particle>particle</particle><state>state</state><updown>updown</updown>
+<target>target</target><state>state</state><updown>updown</updown>
+<target>target</target><number>number</number><channel>channel</channel>
+<target>target</target><particle>particle</particle><action>action</action>
+<target>target</target><action>action</action>

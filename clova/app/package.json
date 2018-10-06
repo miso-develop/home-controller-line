@@ -1,0 +1,15 @@
+{
+  "name": "home-controller-clova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Miso Tanaka (@miso_develop)",
+  "license": "MIT",
+  "dependencies": {
+    "@line/clova-cek-sdk-nodejs": "^1.1.0",
+    "aws-serverless-express": "^3.3.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
